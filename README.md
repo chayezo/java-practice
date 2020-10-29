@@ -1,4 +1,1 @@
-# kha
-khacademy
-
 # DB
